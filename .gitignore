@@ -1,7 +1,7 @@
 Handwritten Digit Classifier/generic_num_reader.model/variables/variables.data-00000-of-00001
 Handwritten Digit Classifier/generic_num_reader.model/saved_model.pb
-Handwritten Digit Classifier/generic_num_reader.model/variables/variables.index
-*.jpg
+Handwritten Digit 
+Classifier/generic_num_reader.model/variables/variables.index
 PetImages/Cat/Thumbs.db
 PetImages/Dog/Thumbs.db
 MSR-LA - 3467.docx
@@ -10,3 +10,9 @@ MSR-LA - 3467.docx
 .ipynb_checkpoints/Handwritten Digit Prediction-checkpoint.ipynb
 .ipynb_checkpoints/Cats vs Dogs-checkpoint.ipynb
 Cats vs. Dogs/.ipynb_checkpoints/Cats vs Dogs-checkpoint.ipynb
+*.iml
+*.xml
+Cats vs. Dogs/.ipynb_checkpoints/Cats vs. Dogs Data Processing-checkpoint.ipynb
+Cats vs. Dogs/logs
+Cats vs. Dogs/PetImages
+*.pickle
