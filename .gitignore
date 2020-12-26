@@ -16,3 +16,5 @@ Cats vs. Dogs/.ipynb_checkpoints/Cats vs. Dogs Data Processing-checkpoint.ipynb
 Cats vs. Dogs/logs
 Cats vs. Dogs/PetImages
 *.pickle
+RNN/logs
+RNN/models
